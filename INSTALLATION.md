@@ -31,12 +31,12 @@
    Update the template data in the `app/data.ts` file.
 
    ```ts
-   export const EMAIL = 'your@email.com'
+   export const EMAIL = 'dedricleftwich@gmail.com'
 
    export const SOCIAL_LINKS = [
      {
        label: 'Github',
-       link: 'your-github-url',
+       link: 'https://github.com/dedricl',
      },
      // Add your social links
    ]
